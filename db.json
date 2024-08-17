@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Filipe Rodrigues",
+      "idade": 22
+    },
+    {
+      "id": "2",
+      "nome": "Danillo Coelho",
+      "idade": 23
+    },
+    {
+      "id": "3",
+      "nome": "Rodrigo Serafim",
+      "idade": 24
+    }
+  ]
+}
