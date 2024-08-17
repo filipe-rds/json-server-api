@@ -3,17 +3,27 @@
     {
       "id": "1",
       "nome": "Filipe Rodrigues",
-      "idade": 22
+      "idade": "22"
     },
     {
       "id": "2",
       "nome": "Danillo Coelho",
-      "idade": 23
+      "idade": "23"
     },
     {
       "id": "3",
       "nome": "Rodrigo Serafim",
-      "idade": 24
+      "idade": "24"
+    }
+    {
+      "id": "4",
+      "nome": "Gabriel Félix",
+      "idade": "23"
+    }
+    {
+      "id": "5",
+      "nome": "Lucas Pedro",
+      "idade": "24"
     }
   ]
 }
